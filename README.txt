@@ -1,0 +1,1 @@
+This project is about some solution(for java) to the problems of leetcode.
